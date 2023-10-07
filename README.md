@@ -1,4 +1,8 @@
 # Boolean-Model
-Tugas STKI Minggu 3l
+Tugas STKI Minggu 3
+
+
 Nama : Aris Dwi Wahyudi
-NIm  : A11.2020.13070
+
+
+Nim  : A11.2020.13070
